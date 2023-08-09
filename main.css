@@ -1,0 +1,247 @@
+body,*{
+    margin: 0;
+    padding: 0;
+}
+
+@keyframes change {
+    from{background-color: rgb(10, 75, 119);} to {background-color: #287dfd;}
+}
+
+.emergency{
+    position: fixed;
+    left:0;
+    top:40%;
+    background-color: maroon;
+    width:20px;
+    font-size: 18px;
+    word-break: break-all;
+    z-index: 1;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.emergency a{
+    color: white;
+    text-decoration: none;
+    
+}
+.heading{
+    text-align: center;
+    background-color: #094399;
+    color: white;
+    display: block;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.heading h3{
+    padding: 10px;
+    color:white;
+    text-decoration: none;
+}
+.consult{
+    display: none;
+}
+.heading:hover .consult{
+    display: block;
+}
+.consult form{
+    display: block;
+    padding: 10px;
+    margin:auto;
+}
+.appointment form label{
+    color: rgb(4, 26, 87);
+}
+.consult form input{
+    padding: 12px 20px;
+    max-width: 50%;
+    border-radius: 10px;
+    margin: 10px;
+}
+.consult form input[type=submit] {
+    box-sizing: border-box;
+    background-color: rgb(12, 153, 247);
+    color:white;
+    font-size: larger;
+}
+.header{
+    position: sticky;
+    top:0;
+    background-color: white;
+}
+.header .logo img{
+    display: inline;
+    float:right;
+    height: 100px;
+    margin-right: 100px;
+}
+.nav1{
+    display: block;
+    margin: 0;
+    position:sticky;
+    top:0;
+}
+.nav1 ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-image:linear-gradient(to left,white 1%,rgb(3, 156, 154));;
+    padding: 0 50px;
+}
+.nav1 ul li{
+    float:left;
+    padding: 7px 15px;
+}
+
+.nav1 ul li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    vertical-align: center;
+    padding: 12px 0px;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.nav1 ul li a:hover{
+    font-style: italic;
+}
+.n ul{
+    background-image: none;
+    background-color:white;
+    border-bottom: solid black 1px;
+}
+.n ul li a{
+    color: rgb(64, 134, 240);
+    padding:10px;
+}
+.n ul li a:hover{
+    background-color: rgb(64, 134, 240);
+    color:white;
+    border-radius: 20px;
+}
+.drop-content{
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+    background-color: rgb(243, 247, 247);
+    box-shadow: 0 8px 16px 0 rgba(0, 39, 97, 0.2);
+}
+.drop-content a{
+    color:rgb(12, 153, 247);
+    text-decoration: none;
+    display: block;
+    padding: 5px;
+}
+.dropdown:hover .drop-content{
+    display: block;
+}
+
+
+
+
+
+.about{
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+}
+.about .content{
+    padding:20px;
+    width: 40%;
+}
+.about .content h1{
+    background-color:rgb(7, 18, 82);
+    color:white;
+    border:white solid 1px;
+    border-radius:0 12px 0 12px;
+    padding:5px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.about .content p{
+    font-size: 18px;
+    padding:15px;
+    line-height: 27px;
+    color: rgb(4, 109, 107);
+}
+.about iframe{
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.appointment{
+    background-image: url(doc.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: 85%;
+    height:450px;
+}
+.appointment form{
+    margin-left: 250px;
+    background-color:#39d4d4;
+    padding: 20px;
+    border-radius: 10px;
+    max-width:250px;
+}
+.appointment form input{
+    margin: 8px 0;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.appointment input[type=submit] {
+    box-sizing: border-box;
+    background-color: rgb(10, 75, 119);
+    color:white;
+}
+
+.appointment input[type=submit]:hover {
+    animation-name: change;
+    animation-duration: 3s;
+    cursor: pointer;
+}
+
+.appointment form label{
+    font-size: 15px;
+}
+
+
+
+.footer{
+    background-image: linear-gradient(rgb(53,182,180),rgb(7, 18, 82));
+    overflow:hidden;
+    padding:100px 2px;
+    display: flex;
+    padding-left:50px;
+}
+.f{
+    width:24.9%;
+}
+.footer .sec1 li{
+    list-style-type: none;
+    line-height: 30px;
+}
+.footer .sec1 a{
+    padding: 5px;
+    color:white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+.footer .sec1 a:hover{
+    padding: 20px;
+    color: aqua;
+}
+
+.footer .sec1 h3{
+    color:aquamarine;
+    padding: 5px;
+}
+
+.footer .sec1 .h{
+    color: aqua;
+}
+
+.footer .sec1 p{
+    color: white;
+}
