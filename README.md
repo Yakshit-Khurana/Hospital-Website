@@ -11,12 +11,17 @@ There is also a sticky Emergency button at the left-center of the page. Clicking
 
 There is a form to be filled out by the user so that the client can get an appointment with the doctor. 
 
-Below the form, lies an interactive footer. The footer has a dedicated gradient background and there are multiple links present for the benefit of the user. Hovering a link creates a colour effect.
+Below the form, lies an interactive footer. The footer has a dedicated gradient background and multiple links present for the user's benefit. Hovering a link creates a colour effect.
 
 
-![Screenshot (1020)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/1c35a4b2-e86d-4932-a4ba-bb70f0f00714)
-![Screenshot (1021)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/2161be32-08af-4eef-9550-a2f9346515d8)
-![Screenshot (1022)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/65aa34a8-09d0-4ef0-8c76-2622884d8767)
-![Screenshot (1024)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/0bf3bd61-f721-425e-8312-f3c8f90952b9)
-![Screenshot (1027)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/f45435db-96f5-4243-ba76-0c40d254cc5c)
-![Screenshot (1028)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/e775c2ea-ef0e-4f25-868e-5fdd0baada13)
+![Screenshot (1031)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/8627e389-c9a9-48d2-ba5e-422b8317fb7f)
+The form is displayed on clicking the topmost tab.
+![Screenshot (1032)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/00dcebc6-8db2-4538-800f-903ba864ecdf)
+About us with interactive video
+![Screenshot (1033)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/e6109018-b928-49b3-85c5-e915ec4cd30a)
+Hovering on navigtion
+![Screenshot (1034)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/13304720-8b19-45de-9e51-74ef2e13e18d)
+![Screenshot (1035)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/67d65686-0955-4309-a514-d5bdd34407fb)
+Hovering Effect on links in footer
+![Screenshot (1036)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/a9f720db-3c63-408b-88a4-76615c3bacbf)
+
