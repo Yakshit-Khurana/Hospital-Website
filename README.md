@@ -15,11 +15,11 @@ Below the form, lies an interactive footer. The footer has a dedicated gradient 
 
 
 ![Screenshot (1031)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/8627e389-c9a9-48d2-ba5e-422b8317fb7f)
-The form is displayed on clicking the topmost tab.
+The form is displayed on clicking the topmost tab and About us with interactive video
 ![Screenshot (1032)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/00dcebc6-8db2-4538-800f-903ba864ecdf)
-About us with interactive video
-![Screenshot (1033)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/e6109018-b928-49b3-85c5-e915ec4cd30a)
 Hovering on navigtion
+![Screenshot (1033)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/e6109018-b928-49b3-85c5-e915ec4cd30a)
+Appointment form
 ![Screenshot (1034)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/13304720-8b19-45de-9e51-74ef2e13e18d)
 ![Screenshot (1035)](https://github.com/Yakshit-Khurana/Hospital-Website/assets/76546067/67d65686-0955-4309-a514-d5bdd34407fb)
 Hovering Effect on links in footer
